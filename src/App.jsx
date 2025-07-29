@@ -27,7 +27,7 @@ function App() {
 
   return (
     <div
-        className="w-full h-screen flex flex-wrap justify-center items-center bg-contain bg-center bg-no-repeat"
+        className="w-full h-screen flex flex-wrap justify-center items-center bg-cover bg-center bg-no-repeat"
           style={{
         backgroundImage: "url('https://images.pexels.com/photos/2847648/pexels-photo-2847648.jpeg')"
       }}
