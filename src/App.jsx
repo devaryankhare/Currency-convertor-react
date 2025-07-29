@@ -58,7 +58,7 @@ function App() {
                              border-blue-800 rounded-md bg-gradient-to-b from-white to-slate-900 text-slate-100 px-2 py-0.5"
                             onClick={swap}
                         >
-                            swap
+                            SWAP
                         </button>
                     </div>
                     <div className="w-full mt-1 mb-4">
