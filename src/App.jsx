@@ -27,10 +27,10 @@ function App() {
 
   return (
     <div
-        className="w-full h-screen flex flex-wrap justify-center items-center bg-cover bg-center bg-gradient-to-br from-black to-slate-700 bg-no-repeat"
-        // style={{
-        //   backgroundImage:"url('https://images.pexels.com/photos/2847648/pexels-photo-2847648.jpeg')"
-        // }}
+        className="w-full h-screen flex flex-wrap justify-center items-center bg-cover bg-center  bg-no-repeat"
+          style={{
+        backgroundImage: "url('https://images.pexels.com/photos/730564/pexels-photo-730564.jpeg')"
+      }}
     >
         <div className="w-full">
             <div className="w-full max-w-md mx-auto border border-gray-100 rounded-lg p-5 backdrop-blur-xl bg-white/40">
